@@ -7,3 +7,8 @@
 [![Facebok Badge](https://img.shields.io/badge/-Facebook-black?style=flat&logo=Facebook&logoColor=aqua&link=https://www.facebook.com/404/)](https://www.facebook.com/xjusthaxor) 
 [![Instagram Badge](https://img.shields.io/badge/-Whatsapp-black?style=flat&logo=Whatsapp&logoColor=aqua&link=https://whatsapp.com/404/)](https://whatsapp.com/404)
 [![Blogger Badge](https://img.shields.io/badge/-Blogger-black?style=flat&logo=Blogger&logoColor=aqua&link=https://privacy1337.blogspot.com/)](https://privacy1337.blogspot.com)
+
+<details><summary><b>🚀My Activity</b></summary>
+
+![Metrics](https://metrics.lecoq.io/xjusthaxor?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia/Jakarta)
+</details>
