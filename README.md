@@ -14,4 +14,3 @@
 </details>
 
 
-<a onmouseover="alert(document.cookie)">Klik disini sayang!</a>
