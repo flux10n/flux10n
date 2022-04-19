@@ -1,4 +1,7 @@
+### Welcome to my github 👋
+<p align=left> <img src=https://komarev.com/ghpvc/?username=xjusthaxor alt=xjusthaxor /> </p>
 
-<a href="https://github.com/xjusthaxor"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xjusthaxor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+[![Github stats](https://github-readme-stats.vercel.app/api?username=xjusthaxor&show_icons=true&theme=white&include_all_commits=true)](https://github.com/xjusthaxor/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xjusthaxor&layout=compact&theme=white)](https://github.com/xjusthaxor/github-readme-stats)
+[![Facebok Badge](https://img.shields.io/badge/-xjusthaxor-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/404/)](https://www.facebook.com/xjusthaxor) [![Instagram Badge](https://img.shields.io/badge/-xjusthaxor-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/zuck/)](https://www.instagram.com/zuck)
