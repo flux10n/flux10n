@@ -1,4 +1,4 @@
-### Welcome to my github 👋
+### Halo bre welcome to my github 🤠🥀
 <p align=left> <img src=https://komarev.com/ghpvc/?username=xjusthaxor alt=xjusthaxor /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=xjusthaxor&show_icons=true&theme=midnight-purple&include_all_commits=true)](https://github.com/xjusthaxor/github-readme-stats)
