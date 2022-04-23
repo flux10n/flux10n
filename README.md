@@ -1,6 +1,4 @@
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=xjusthaxor alt=xjusthaxor /> </p>
-
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/xjusthaxor/langs?time_range=one_month&theme=bright_lights)](https://githubtrends.io)
 
 <details><summary><b>🚀My Activity</b></summary>
