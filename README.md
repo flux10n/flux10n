@@ -1,3 +1,8 @@
+### Hi i'm alfian :shipit:
+
+<p align="center">
+<a href="https://github.com/xjusthaxor/MSF-EXPLOIT"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xjusthaxor&repo=MSF-EXPLOIT&theme=chartreuse-dark">
+</p>
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/xjusthaxor/langs?time_range=one_month&theme=bright_lights)](https://githubtrends.io)
 
