@@ -1,4 +1,4 @@
-# Hi, my name is Alfian :shipit:
+# Hi, my name is Alfian :bowtie:
 __👓 About me:__  
 I'm just a script kiddie and a beginner who has a hobby in the security field. Besides that I also have free time & I try to spend that time on new things.
 
