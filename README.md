@@ -1,12 +1,18 @@
-## Hi, my name is Alfian :shipit:
-> I'm just a script kiddie and a beginner who has a hobby in the security field.
+# Hi, my name is Alfian :shipit:
+> I'm just a script kiddie and a beginner who has a hobby in the security field. Besides that I also have free time & I try to spend that time on new things.
+> - For example, looking for __website vulnerabilities__ and others :trollface:
 <br />
 
 <p align="center">
 <a href="https://github.com/xjusthaxor/email_verifier"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xjusthaxor&repo=email_verifier&theme=chartreuse-dark">
+<a href="https://github.com/xjusthaxor/email_verifier"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xjusthaxor&repo=email_verifier&theme=chartreuse-dark">
+<a href="https://github.com/xjusthaxor/email_verifier"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xjusthaxor&repo=email_verifier&theme=chartreuse-dark">
+<a href="https://github.com/xjusthaxor/email_verifier"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xjusthaxor&repo=email_verifier&theme=chartreuse-dark">
+<a href="https://github.com/xjusthaxor/email_verifier"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xjusthaxor&repo=email_verifier&theme=chartreuse-dark">
+
 </p>
 
-## My github language's
+# My github language's
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/xjusthaxor/langs?time_range=one_month&theme=bright_lights)](https://githubtrends.io)
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/xjusthaxor/repos?time_range=one_month&theme=synthwaves)](https://githubtrends.io)
