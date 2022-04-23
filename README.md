@@ -1,6 +1,8 @@
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/xjusthaxor/langs?time_range=one_month&theme=bright_lights)](https://githubtrends.io)
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/xjusthaxor/repos?time_range=one_month&theme=synthwaves)](https://githubtrends.io)
+
 <details><summary><b>🚀My Activity</b></summary>
 <br />
 <p align="center"><a href="https://app.daily.dev/xjusthaxor"><img src="https://api.daily.dev/devcards/f3575b782b644b65a0fa3b5bcc928bb6.png?r=qjl" width="140" alt="krah krah's Dev Card"/></a></p>
