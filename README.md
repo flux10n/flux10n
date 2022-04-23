@@ -1,6 +1,10 @@
 # Hi, my name is Alfian :shipit:
-> I'm just a script kiddie and a beginner who has a hobby in the security field. Besides that I also have free time & I try to spend that time on new things.
-> - For example, looking for __website vulnerabilities__ and others :trollface:
+__👓 About me:__  
+I'm just a script kiddie and a beginner who has a hobby in the security field. Besides that I also have free time & I try to spend that time on new things.
+
+For example, looking for __website vulnerabilities__ and others :trollface:
+
+__So have fun on github!! 🦦__
 <br />
 
 <p align="center">
