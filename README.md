@@ -1,7 +1,7 @@
 ### Halo bre welcome to my github 🤠🥀
 <p align=left> <img src=https://komarev.com/ghpvc/?username=xjusthaxor alt=xjusthaxor /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=xjusthaxor&show_icons=true&theme=midnight-purple&include_all_commits=true)](https://github.com/xjusthaxor/github-readme-stats)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/xjusthaxor/langs?time_range=one_month&theme=bright_lights)](https://githubtrends.io)
 
 <details><summary><b>🚀My Activity</b></summary>
 <br />
@@ -9,4 +9,5 @@
 
 ![Metrics](https://metrics.lecoq.io/xjusthaxor?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia/Jakarta)
 </details>
+
 
