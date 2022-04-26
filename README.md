@@ -22,7 +22,5 @@ ___
 # My github language's
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/xjusthaxor/langs?time_range=one_month&theme=bright_lights)](https://githubtrends.io)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/xjusthaxor/repos?time_range=one_month&theme=ferns)](https://githubtrends.io)
-
 ___
 
