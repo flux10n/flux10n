@@ -19,6 +19,8 @@ ___
 <a href="https://github.com/xjusthaxor/xss-payload-list"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xjusthaxor&repo=xss-payload-list&theme=chartreuse-dark">
 
 <a href="https://github.com/xjusthaxor/blogger-theme"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xjusthaxor&repo=blogger-theme&theme=chartreuse-dark">
+
+<a href="https://github.com/xjusthaxor/psatir-shell-backdoor"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xjusthaxor&repo=psatir-shell-backdoor&theme=chartreuse-dark">
 </p>
 
 ___
