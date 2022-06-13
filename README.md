@@ -8,7 +8,3 @@
 
 ![](https://komarev.com/ghpvc/?username=flux10n)
 
-- [My blog](https://flux10n.blogspot.com)
-- [Instagram](https://instagram.com/zuck)
-- [Youtube](https://www.youtube.com/jokowi)
-- [Blog DeepWeb](https://evil.com)
