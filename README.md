@@ -1,6 +1,9 @@
 ### Hi strangers!
-<img src="
-<P>Halo deck nama saya sopo panggilanya bre. Here I don't want to be arrogant and feel like I'm already great and puberty disini saya hanya ingin belajar.</p>
+<img src="/20220603_094447.jpg" width="100%" align="center"><br>
+[Source](https://flux10n.blogspot.com)
+
+### About me
+<P>Just a script kiddie who is new to the world of programming and hacking.</p>
 
 - [My blog](https://flux10n.blogspot.com)
 - [Instagram](https://instagram.com/zuck)
