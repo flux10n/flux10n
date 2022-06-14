@@ -8,10 +8,9 @@
 </P>
 
 <Br>
-<H4 align="center">About me:</h4>
+<H3 align="center">About me:</h3>
 
-<P>Hello outsiders, you are now on my github. My name is Bre, it's not a real name but a pseudonym.I started github when I got interested in programming, security, and hackers.</p>
-
+<P>Hey outsiders welcome to my github. Introduce my name bro I'm interested in hacking.</p>
 
 ![](https://komarev.com/ghpvc/?username=flux10n)
 
