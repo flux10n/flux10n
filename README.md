@@ -7,8 +7,9 @@
 <a href="https://flux10n.blogspot.com"><img src="https://img.shields.io/badge/blogger-%23E4405F.svg?&style=for-the-badge&logo=blogger&logoColor=white&color=071A2C" align="center" alt="Blog"></a>
 </P>
 
+<Br>
 <H4 align="center">About me</h4>
-<P>Hello outsiders, you are now on my github.</p>
+<P>Hello outsiders, you are now on my github. My name is Bre, it's not a real name but a pseudonym.</p>
 
 ![](https://komarev.com/ghpvc/?username=flux10n)
 
