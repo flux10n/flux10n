@@ -13,15 +13,7 @@
 
 <P>Hey outsiders welcome to my github. Introduce my name bro I'm interested in hacking. My age is 1 century, XD I'm just a student.</p>
 
-- __Destination :__
-Just for fun and looking for experience.
-
-- __My Skill :__
-Only script kiddie and newbie :/
-
-- __Language I use :__
-It's simple, only css that I understand is a joke right? 
-
 ![](https://komarev.com/ghpvc/?username=flux10n)
 
 
+____
