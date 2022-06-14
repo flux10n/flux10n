@@ -9,7 +9,7 @@
 
 <Br>
 <H4 align="center">About me:</h4>
-<P>Hello outsiders, you are now on my github. My name is Bre, it's not a real name but a pseudonym.</p>
+<P>Hello outsiders, you are now on my github. My name is Bre, it's not a real name but a pseudonym.I started github when I got interested in programming, security, and hackers.</p>
 
 ![](https://komarev.com/ghpvc/?username=flux10n)
 
