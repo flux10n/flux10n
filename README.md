@@ -5,6 +5,7 @@
 <p align="center">
 <a href="https://instagram.com/zuck"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" align="center" alt="IG"></a>
 <a href="https://flux10n.blogspot.com"><img src="https://img.shields.io/badge/blogger-%23E4405F.svg?&style=for-the-badge&logo=blogger&logoColor=white&color=071A2C" align="center" alt="Blog"></a>
+<a href="https://facebook.com/"><img src="https://img.shields.io/badge/facebook-%23E4405F.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" align="center" alt="FB"></a>
 </P>
 
 <Br>
@@ -14,4 +15,4 @@
 
 ![](https://komarev.com/ghpvc/?username=flux10n)
 
-wnanajajsisks
+
