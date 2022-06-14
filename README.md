@@ -17,7 +17,7 @@
 Just for fun and looking for experience.
 
   - __My Skill :__
-Only script kiddie and newbie 🤡
+Only script kiddie and newbie :/
 
 - __Language I use :__
 It's simple, only css that I understand is a joke right? 
