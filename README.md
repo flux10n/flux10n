@@ -8,7 +8,7 @@
 </P>
 
 <H4 align="center">About me</h4>
-<P>Just a script kiddie who is new to the world of programming and hacking.</P>
+<P>Hello outsiders, you are now on my github.</p>
 
 ![](https://komarev.com/ghpvc/?username=flux10n)
 
