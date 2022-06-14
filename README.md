@@ -8,7 +8,7 @@
 </P>
 
 <H4 align="center">About me</h4>
-<P align="center">Just a script kiddie who is new to the world of programming and hacking.</P>
+<P>Just a script kiddie who is new to the world of programming and hacking.</P>
 
 ![](https://komarev.com/ghpvc/?username=flux10n)
 
