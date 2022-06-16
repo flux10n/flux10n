@@ -11,7 +11,7 @@ ___
 <a href="https://facebook.com/"><img src="https://img.shields.io/badge/facebook-%23E4405F.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" align="center" alt="FB"></a>
 </P>
 
-<H3>bout me :</h3>
+<H3>About me :</h3>
 
 <P>Hey outsiders welcome to my github. Introduce my name bro I'm interested in hacking. My age is 1 century, XD I'm just a student.
 
