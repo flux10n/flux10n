@@ -1,5 +1,3 @@
-___
-
 
 <h3 align="center"> Hi strangers! You are currently on 私の github</h3>
 
@@ -16,6 +14,3 @@ ___
 <P>Hey outsiders welcome to my github. Introduce my name bro I'm interested in hacking. My age is 1 century, XD I'm just a student.
 
 ![](https://komarev.com/ghpvc/?username=flux10n)
-
-
-___
