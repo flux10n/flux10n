@@ -4,9 +4,9 @@
 
 I am someone who likes to play in cyber world & I want to make it all a dream.
 
-* [My projects github](https://opensource.microsoft.com/projects/)
-* [Instagram personal account](https://careers.microsoft.com/us/en/search-results?keywords=open%20source)
-* [Facebook to greet each other](https://opensource.microsoft.com/azure-credits)
+* [My projects github](?)
+* [Instagram personal account](?)
+* [Facebook to greet each other](?)
 
 Enter [github.com](https://github.com/login) to explore.
 
