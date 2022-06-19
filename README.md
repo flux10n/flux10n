@@ -12,7 +12,7 @@ Enter [github.com](https://github.com/login) to explore.
 
 ----
 
-OK, that's all my self-introduction, I hope, thank you :octocat:
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="30%" alt="oy"> OK, that's all my self-introduction, I hope, thank you.
 
 <br>
 
