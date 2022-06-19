@@ -2,7 +2,7 @@
 
 ## About me
 
-I am someone who likes to play in cyber world & I want to make it all a dream.
+Hey outsider you are now on my github. I am someone who likes to play in cyber world & I want to make it all a dream.
 
 * [My projects github](?)
 * [Instagram personal account](?)
