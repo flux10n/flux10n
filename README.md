@@ -7,8 +7,6 @@ Hey outsider you are now on my github. Before continuing scroll down introduce m
 * [My projects github](?)
 * [Instagram personal account](?)
 * [Facebook to greet each other](?)
-* [Discord for entertainment](?)
-* [My site](?)
 
 Enter [github.com](https://github.com/login) to explore.
 
