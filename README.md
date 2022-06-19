@@ -2,7 +2,7 @@
 
 ## About me
 
-Hey outsider you are now on my github. I am someone who likes to play in cyber world & I want to make it all a dream.
+Hey outsider you are now on my github. Before continuing scroll down introduce my name **Unknown** I am a student who is interested in hacking.
 
 * [My projects github](?)
 * [Instagram personal account](?)
