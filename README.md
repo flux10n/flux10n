@@ -12,7 +12,7 @@ Enter [github.com](https://github.com/login) to explore.
 
 ----
 
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="15%" alt="oy"> Okay, that's all I can say in my github repository, and don't forget to keep coding, thanks.
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="15%" alt="oy"> Okay, that's all I can say in my github repository, & don't forget to keep coding, thanks.
 
 <br>
 
