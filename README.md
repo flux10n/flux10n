@@ -1,16 +1,18 @@
-
-<h3 align="center"> Hi strangers! You are currently on 私の github</h3>
-
 ![flux10n card name](https://cardivo.vercel.app/api?name=FLUX10N&description=Hanyalah%20manusia%20biasa%20yang%20tertarik%20akan%20dunia%20cyber.&image=https://telegra.ph/file/e93aa96781839393359d0.jpg&backgroundColor=%23ecf0f1&instagram=zuck&github=flux10n&pattern=leaf&colorPattern=%23eaeaea)
 
-<p align="center">
-<a href="https://instagram.com/zuck"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" align="center" alt="IG"></a>
-<a href="https://flux10n.blogspot.com"><img src="https://img.shields.io/badge/blogger-%23E4405F.svg?&style=for-the-badge&logo=blogger&logoColor=white&color=071A2C" align="center" alt="Blog"></a>
-<a href="https://facebook.com/"><img src="https://img.shields.io/badge/facebook-%23E4405F.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" align="center" alt="FB"></a>
-</P>
+## About me
 
-<H3>About me :</h3>
+I am someone who likes to play in cyber world & I want to make it all a dream.
 
-<P>Hey outsiders welcome to my github. Introduce my name bro I'm interested in hacking. My age is 1 century, XD I'm just a student.
+* [My projects github](https://opensource.microsoft.com/projects/)
+* [Instagram personal account](https://careers.microsoft.com/us/en/search-results?keywords=open%20source)
+* [Facebook to greet each other](https://opensource.microsoft.com/azure-credits)
+
+Enter [github.com](https://github.com/login) to explore.
+
+----
+
+OK, that's all my self-introduction, I hope, thank you :octocat:
+
 
 ![](https://komarev.com/ghpvc/?username=flux10n)
