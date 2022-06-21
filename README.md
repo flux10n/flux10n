@@ -12,7 +12,7 @@ Enter [github.com](https://github.com/login) to explore.
 
 ----
 
-<img src="https://telegra.ph/file/adc3ce677a2ee93fe7ab5.gif" width="13%" alt="oy"> Okay, that's all I can say in my github repository, & don't forget to keep hacking, thanks.
+<img src="https://telegra.ph/file/adc3ce677a2ee93fe7ab5.gif" width="13%" alt="oy"> Okay, that's all I can say in my github repository, & don't forget to keep hacking and learning, thanks brother.
 
 <br>
 
