@@ -8,7 +8,7 @@ Hey outsider you are now on my github. Before continuing scroll down introduce m
 * [Instagram personal account](?)
 * [Facebook to greet each other](?)
 
-Enter [github.com](https://github.com/login) to explore.
+Enter [Deepweb](https://github.com/login) to explore.
 
 ----
 
