@@ -12,7 +12,7 @@ Enter [Deepweb](https://github.com/login) to explore.
 
 ----
 
-<img src="https://telegra.ph/file/adc3ce677a2ee93fe7ab5.gif" width="35%" alt="oy">Okay, that's all I can say in my github repository, and don't forget to keep hacking.
+:octocat: Okay, that's all I can say in my github repository, and don't forget to keep hacking.
 
 <br>
 
