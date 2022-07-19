@@ -12,7 +12,7 @@ Enter [Deepweb](https://github.com/login) to explore.
 
 ----
 
-:octocat: Okay, that's all I can say in my github repository, and don't forget to keep hacking.
+Okay, that's all I can say in my github repository, and don't forget to keep hacking.
 
 <br>
 
