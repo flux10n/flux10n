@@ -11,6 +11,7 @@ Hey outsider you are now on my github. Before continuing scroll down introduce m
 Enter [Deepweb](https://github.com/login) to explore.
 
 ----
+<img id="flux10n" src="https://github-stats-alpha.vercel.app/api/?username=flux10n&cc=000000&tc=00ff00&ic=00ff00&bc=00ff00"/>
 
 Okay, that's all I can say in my github repository, and don't forget to keep hacking.
 
