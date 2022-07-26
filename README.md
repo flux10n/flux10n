@@ -1,6 +1,6 @@
-<img id="flux10n" src="https://github-stats-alpha.vercel.app/api/?username=flux10n&cc=000000&tc=00ff00&ic=00ff00&bc=00ff00"/>
+<img id="flux10n" src="https://github-stats-alpha.vercel.app/api/?username=flux10n&cc=000&tc=0000ff&ic=0000ff&bc=0000ff"/>
 
-## :crab:
+# :crab:
 Hey outsider you are now on my github. Before continuing scroll down introduce my name **Unknown** I am a student who is interested in hacking.I learned some about bugs and malware and how to get around the hack.
 
 * [My projects github](?)
