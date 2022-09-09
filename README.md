@@ -7,7 +7,7 @@ Hey outsider you are now on my github. Before continuing scroll down introduce m
 * [Instagram personal account](?)
 * [Facebook to greet each other](?)
 
-Enter [Site](https://github.com/login) to explore.
+Enter [this site](https://github.com/login) to explore.
 
 ----
 
