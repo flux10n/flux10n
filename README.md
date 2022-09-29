@@ -21,7 +21,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux" />
-  <img src="https://img.shields.io/badge/-Windows 10-blue?style=flat-square&logo=Windows" />
+  <img src="https://img.shields.io/badge/-Windows 10-black?style=flat-square&logo=Windows" />
   </p>
 
 ____
