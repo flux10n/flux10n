@@ -8,10 +8,10 @@
 
 ## Language
 
-  - ##### PHP
-  - ##### Html/Css
-  - ##### Shell
-  - ##### Python
+  - ###### PHP
+  - ###### Html/Css
+  - ###### Shell
+  - ###### Python
 
 ____
 
