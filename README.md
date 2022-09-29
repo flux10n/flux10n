@@ -8,10 +8,19 @@
 
 ## Language
 
-  - ###### PHP
-  - ###### Html/Css
-  - ###### Shell
-  - ###### Python
+<p align="left">
+  <img src="https://img.shields.io/badge/-php-black?style=flat-square&logo=php" />
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
+  <img src="https://img.shields.io/badge/-html5-black?style=flat-square&logo=html5" /> 
+  <img src="https://img.shields.io/badge/-shell-black?style=flat-square&logo=shell" /> 
+</p>
+
+## Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux" />
+  <img src="https://img.shields.io/badge/-Windows 10-blue?style=flat-square&logo=Windows" />
+  </p>
 
 ____
 
