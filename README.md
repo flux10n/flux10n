@@ -4,7 +4,7 @@
 
 <img id="flux10n" src="https://github-stats-alpha.vercel.app/api/?username=flux10n&cc=000&tc=9500ff&ic=FF0000&bc=dd00ff"/>
 
-###### A student who is thirsty for knowledge. | Mail to: orangrandom@proton.me
+###### Hi I'm a 15 year old boy who loves code. | Mail to: orangrandom@proton.me
 
 ## Language/Sosmed
 
