@@ -6,7 +6,8 @@
 
 <!--<img id="flux10n" src="https://github-stats-alpha.vercel.app/api/?username=flux10n&cc=000&tc=9500ff&ic=FF0000&bc=dd00ff"/>-->
 
-###### Hey guys, let me introduce myself, I'm a person who rarely leaves the house. contact me orangrandom@proton.me
+###### Hi I am a person who is afraid of mistakes when learning programming :D
+###### contact me orangrandom@proton.me
 
 ## Language
 
