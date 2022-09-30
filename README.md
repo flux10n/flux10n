@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/-shell-black?style=flat-square&logo=shell" /> 
 </p>
 
-## Tools
+## Os
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux" />
