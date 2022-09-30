@@ -2,7 +2,7 @@
 
 ## About me
 
-<img src="https://github-readme-stats.vercel.app/api?username=flux10n&hide_border=true&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=flux10n&hide_border=true&show_icons=true&bg_color=0d1116&title_color=00FFFF&text_color=a4aacb&icon_color=007ec6" align="center">
 
 <!--<img id="flux10n" src="https://github-stats-alpha.vercel.app/api/?username=flux10n&cc=000&tc=9500ff&ic=FF0000&bc=dd00ff"/>-->
 
