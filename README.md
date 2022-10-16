@@ -1,6 +1,6 @@
 <!--<img src="68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966.gif" alt="hay" width="800" height="3"><div align="center">-->
 
-### 🅐🅑🅞🅤🅣🅜🅔 🕷️
+### 🅰🅱🅾🆄🆃🅼🅴 🕷️
 
 <img src="https://github-readme-stats.vercel.app/api?username=flux10n&hide_border=true&show_icons=true&bg_color=0d1116&title_color=00FFFF&text_color=a4aacb&icon_color=007ec6" align="center">
 
@@ -8,7 +8,7 @@
 
 ###### Just a student boy interested in programming. Contact me orangrandom@proton.me
 
-### 🅛🅐🅝🅖🅤🅐🅖🅔
+### 🅻🅰🅽🅶🆄🅰🅶🅴
 
 <p align="left">
   <img src="https://img.shields.io/badge/-php-black?style=flat-square&logo=php" />
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/-shell-black?style=flat-square&logo=shell" /> 
 </p>
 
-### 🅞🅢
+### 🅾🆂
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux" />
