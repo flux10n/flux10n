@@ -8,7 +8,7 @@
 
 ###### Just a student boy interested in programming. Contact me orangrandom@proton.me
 
-### 🅻🅰🅽🅶🆄🅰🅶🅴
+### Lang
 
 <p align="left">
   <img src="https://img.shields.io/badge/-php-black?style=flat-square&logo=php" />
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/-shell-black?style=flat-square&logo=shell" /> 
 </p>
 
-### 🅾🆂
+### OS
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux" />
