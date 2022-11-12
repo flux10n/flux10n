@@ -6,7 +6,7 @@
 
 <!--<img id="flux10n" src="https://github-stats-alpha.vercel.app/api/?username=flux10n&cc=000&tc=9500ff&ic=FF0000&bc=dd00ff"/>-->
 
-###### Just a student boy interested in programming. Contact me orangrandom@proton.me
+###### Just a student boy interested in programming. Contact me zuck@fbi.gov
 
 ### Lang
 
