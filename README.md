@@ -22,7 +22,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux" />
   <img src="https://img.shields.io/badge/-Windows 10-black?style=flat-square&logo=Windows" />
-  </p>
+  </p><br>
 
 <a href="#"><p align="center"><img width="50px" src="https://telegra.ph/file/d0fca61c8ad5681d75ff1.png" alt="wtf"></a><br>&copy; 2022 - Unknown</center>
 <!--<img src="68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966.gif" alt="hay" width="800" height="3"><div align="center">-->
