@@ -1,1 +1,3 @@
-<p align="center"><p><i>"Humanos são apenas ferramentas."</i></p>
+<div align="center">
+    <p><i>"Felicidade não é só amor"</i></p>
+</div>
