@@ -17,7 +17,7 @@
 
 <div align="center">
 <samp>
- 💙 Anime Lover | 🤓 Pentest | 📑 Comics | 💻 Programming | 🥶 Ngerecode forever
+ 💙 Anime Lover | 🤓 Pentest | 📑 Comics | 💻 Programming | 🥶 Ngerecode enjoyer
  </samp>
  <br>
  <samp>
