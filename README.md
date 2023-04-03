@@ -10,7 +10,7 @@
 </div>
 <br>
 <div align="center">
-<a href="#" target="_blank">
+<a href="#" target="_blank" title="who">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"><img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=Discord&logoColor=white"><img src="https://img.shields.io/badge/Windows-00a2ed?style=for-the-badge&logo=windows&logoColor=white"><img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"><br><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
  </div>
