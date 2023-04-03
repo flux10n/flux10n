@@ -6,7 +6,7 @@
                                              /___/</pre>
 
 <div align="center">
- <samp><h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" height="30"> Hi everyone</h1></samp>
+ <samp><h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" height="30">:octocat: Hi everyone!</h1></samp>
 </div>
 <br>
 <div align="center">
