@@ -16,18 +16,19 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"><img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=Discord&logoColor=white"><img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"><img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=Discord&logoColor=white"><img src="https://img.shields.io/badge/Windows-00a2ed?style=for-the-badge&logo=windows&logoColor=white"><img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
  </div>
 <br>
 
 <div align="center">
 <samp>
- 🖖 Python Lover | 🔐 Cyber Security | ☕️ Coffe Lover | 🌵 Web Developer | 💻 Bug Hunter
+ 💙 Anime Lover | 🤓 Pentest | 📑 Comics | 💻 Programming | 🥶 Ngerecode forever
  </samp>
  <br>
  <samp>
- <b>I Hope You Enjoy My Tools</b>
+ <b>I hope you understand</b>
  <br>
- <b>My Telegram Channel : https://t.me/ningen8bit</b>
+ <b>Telegram Channel : https://t.me/ningen8bit</b><br>
+ <b>For All : https://www.youtube.com/@xxxxx</b>
  </samp>
 </div>
