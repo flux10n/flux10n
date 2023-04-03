@@ -1,9 +1,4 @@
-
-<!--<img src="https://github-readme-stats.vercel.app/api?username=flux10n&hide_border=true&show_icons=true&bg_color=0d1116&title_color=00FFFF&text_color=a4aacb&icon_color=007ec6" align="center">
-<div align="center">
-    <p><i>"Felicidade não é só amor"</i></p>
-</div>-->
-
+____
 <pre align="center">       
   _      __    __                     _____         
  | | /| / /__ / /______  __ _  ___   / ___/_ ____ __©
@@ -29,6 +24,9 @@
  <b>I hope you understand</b>
  <br>
  <b>Telegram Channel : https://t.me/ningen8bit</b><br>
- <b>For All : https://www.youtube.com/@xxxxx</b>
+ <b>For All : https://www.youtube.com/@xxxxx</b><br>
+<samp><h1>My Stats</h1></samp>
+<img src="https://github-readme-stats.vercel.app/api?username=flux10n&hide_border=true&show_icons=true&bg_color=0d1116&title_color=00FFFF&text_color=a4aacb&icon_color=007ec6" align="center">
  </samp>
 </div>
+____
