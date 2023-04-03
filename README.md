@@ -9,8 +9,7 @@
  | | /| / /__ / /______  __ _  ___   / ___/_ ____ __©
  | |/ |/ / -_) / __/ _ \/  ' \/ -_) / /__/ // / // /
  |__/|__/\__/_/\__/\___/_/_/_/\__/  \___/\_,_/\_, / 
-                                             /___/                                                      
-</pre>
+                                             /___/</pre>
 
 <div align="center">
  <samp><h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" height="30"> Hi everyone</h1></samp>
