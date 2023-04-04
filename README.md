@@ -10,7 +10,7 @@
 </div>
 <br>
 <div align="center">
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Telegram-071A2C?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-071A2C?style=for-the-badge&logo=Discord&logoColor=white"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Windows-071A2C?style=for-the-badge&logo=windows&logoColor=white"><a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Linux-071A2C?style=for-the-badge&logo=linux&logoColor=white"></a><br> <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-071A2C?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white"><a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a><br> <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 </a>
  </div>
 <br>
