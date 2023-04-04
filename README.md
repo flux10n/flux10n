@@ -25,9 +25,10 @@
  <br>
  <b>My Telegram : https://t.me/ningen8bit</b><br>
  <b>For All : https://www.youtube.com/@xxxxx</b><br>
-<samp><h1>My Stats</h1></samp>
+<samp><h1>My Stats 🎯</h1></samp>
 <img src="https://github-readme-stats.vercel.app/api?username=flux10n&hide_border=true&show_icons=true&bg_color=0d1116&title_color=7933f2&text_color=a4aacb&icon_color=7748f7" align="center">
-<br><br><p align="center">
+<samp><h1>Enjoy music 🎧</h1></samp>
+<p align="center">
   <a href="Lagu • Kordhell https://open.spotify.com/intl-id/track/6qyS9qBy0mEk3qYaH8mPss" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/></a>
 </p>
  </samp>
