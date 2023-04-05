@@ -27,6 +27,8 @@
  <b>For All : https://www.youtube.com/@xxxxx</b><br>
 <samp><h1>My Stats 🎯</h1></samp>
 <img src="https://github-readme-stats.vercel.app/api?username=flux10n&hide_border=true&show_icons=true&bg_color=0d1116&title_color=0066ff&text_color=a4aacb&icon_color=0066ff" align="center">
+<br><br><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flux10n&theme=algolia">
+<br><br><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=flux10n&theme=algolia&utcOffset=8">
 <samp><h1>Enjoy Music 🎧</h1></samp>
 <p align="center">
   <a href="https://open.spotify.com/intl-id/track/4xF4ZBGPZKxECeDFrqSAG4" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/></a>
