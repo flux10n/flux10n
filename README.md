@@ -33,8 +33,3 @@
 </p>
  </samp>
 </div>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=flux10n&theme=transparent&utcOffset=8)
-
-
-
