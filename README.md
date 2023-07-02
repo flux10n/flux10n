@@ -26,16 +26,11 @@
  <b>My Telegram : https://t.me/zuck</b><br>
  <b>For All : https://www.youtube.com/@xxxxx</b><br>
 <samp><h1>My Stats 🎯</h1></samp>
-   
 <!--<img src="https://github-readme-stats.vercel.app/api?username=flux10n&hide_border=true&show_icons=true&bg_color=050f2c&title_color=42aaf5&text_color=FFFFFF&icon_color=2dde98" align="center">-->
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=flux10n&theme=midnight_purple)<br><br>
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flux10n&theme=midnight_purple)
 <br><br>
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=flux10n&theme=midnight_purple&utcOffset=8)
-
 <samp><h1>Enjoy Music 🎧</h1></samp>
 <p align="center">
   <a href="https://open.spotify.com/intl-id/track/4xF4ZBGPZKxECeDFrqSAG4" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/></a>
