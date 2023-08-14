@@ -7,6 +7,11 @@
 
 <div align="center">
  <samp><h1><img src="https://s.id/1EM3Z" width="30" height="30">:octocat: Hi Everyone!</h1></samp>
+
+
+https://github.com/flux10n/flux10n/assets/98892565/498de385-20fb-41b8-9e7d-70ccf62e08c4
+
+
 </div>
 <br>
 <div align="center">
